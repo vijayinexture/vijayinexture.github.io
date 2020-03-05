@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.remitpals",
+    "sha256_cert_fingerprints":
+    ["97:DF:4F:C0:E8:46:B5:BF:95:34:4E:E5:00:A6:97:68:FA:54:8E:F5:EA:FC:74:67:56:F4:2D:26:34:91:98:76"]
+  }
+}]
